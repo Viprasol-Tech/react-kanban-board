@@ -1,7 +1,7 @@
 {
   "name": "react-kanban-board",
-  "version": "0.1.0",
-  "description": "Kanban board with draggable cards across columns for React.",
+  "version": "0.2.0",
+  "description": "Kanban board for React with drag-and-drop, WIP limits, labels, priority, and persistence.",
   "type": "module",
   "license": "MIT",
   "author": "Viprasol Tech Private Limited",
